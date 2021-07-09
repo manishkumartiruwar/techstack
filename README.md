@@ -51,9 +51,6 @@ Desktop works differently. Unlike with mobile apps, you don’t need to download
 
 Web app tech stacks use resources that are available in an internet browser. There are many internet browsers, and your tech stack should work with all of them. However, it’s wise to test your websites and online applications on all the most popular browsers to make sure it works the way you expect.
 
-More power. Fewer tools. No headaches.
-Hubstaff and Hubstaff Tasks do more together. Simplify your toolkit. See what Hubstaff can do for free.
-Try the free 14-day trial
 Why is your tech stack important?
 Your tech stack determines what kind of app you’ll be able to build. It also has an impact on what kind of engineers you hire. Developers specialize in specific technologies because there are too many for a single person to learn.
 
